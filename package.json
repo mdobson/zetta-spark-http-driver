@@ -1,0 +1,26 @@
+{
+  "name": "zetta-spark-http-driver",
+  "version": "0.1.0",
+  "description": "Spark HTTP Driver",
+  "main": "index.js",
+  "dependencies": {
+    "spark": "~0.2.3",
+    "zetta-device": "~0.8.0",
+    "zetta-scout": "~0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdobson/zetta-spark-http-driver.git"
+  },
+  "author": "Matthew Dobson <@mdobs>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdobson/zetta-spark-http-driver/issues"
+  },
+  "homepage": "https://github.com/mdobson/zetta-spark-http-driver"
+}
